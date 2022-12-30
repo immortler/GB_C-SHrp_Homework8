@@ -116,4 +116,3 @@ PrintArray("\nOrigin random matrix:", matrix);
 int[,] sortedMatrix = SortRowsFromMaxToMin(rows, columns, matrix);
 
 PrintArray("\nSorted matrix:", sortedMatrix);
-
