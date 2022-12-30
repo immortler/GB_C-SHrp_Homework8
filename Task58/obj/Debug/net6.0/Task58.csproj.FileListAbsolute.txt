@@ -1,0 +1,15 @@
+A:\GB\Intr_In_Progr_Lang\C#_hw8\Task58\bin\Debug\net6.0\Task58.exe
+A:\GB\Intr_In_Progr_Lang\C#_hw8\Task58\bin\Debug\net6.0\Task58.deps.json
+A:\GB\Intr_In_Progr_Lang\C#_hw8\Task58\bin\Debug\net6.0\Task58.runtimeconfig.json
+A:\GB\Intr_In_Progr_Lang\C#_hw8\Task58\bin\Debug\net6.0\Task58.dll
+A:\GB\Intr_In_Progr_Lang\C#_hw8\Task58\bin\Debug\net6.0\Task58.pdb
+A:\GB\Intr_In_Progr_Lang\C#_hw8\Task58\obj\Debug\net6.0\Task58.csproj.AssemblyReference.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw8\Task58\obj\Debug\net6.0\Task58.GeneratedMSBuildEditorConfig.editorconfig
+A:\GB\Intr_In_Progr_Lang\C#_hw8\Task58\obj\Debug\net6.0\Task58.AssemblyInfoInputs.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw8\Task58\obj\Debug\net6.0\Task58.AssemblyInfo.cs
+A:\GB\Intr_In_Progr_Lang\C#_hw8\Task58\obj\Debug\net6.0\Task58.csproj.CoreCompileInputs.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw8\Task58\obj\Debug\net6.0\Task58.dll
+A:\GB\Intr_In_Progr_Lang\C#_hw8\Task58\obj\Debug\net6.0\refint\Task58.dll
+A:\GB\Intr_In_Progr_Lang\C#_hw8\Task58\obj\Debug\net6.0\Task58.pdb
+A:\GB\Intr_In_Progr_Lang\C#_hw8\Task58\obj\Debug\net6.0\Task58.genruntimeconfig.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw8\Task58\obj\Debug\net6.0\ref\Task58.dll
